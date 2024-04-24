@@ -39,6 +39,6 @@ To set up and run the pipeline locally, follow these steps:
 ## Contributors
 
 - [Aitazaz Kamran](https://github.com/AitazazKamran)
-- [Contributor 1](https://github.com/MueezRiz)
-- [Contributor 2](https://github.com/contributor2)
+- [Mueez Rizwan](https://github.com/MueezRiz)
+- [Hassan Khan](https://github.com/contributor2)
 
